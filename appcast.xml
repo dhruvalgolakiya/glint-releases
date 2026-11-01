@@ -6,6 +6,15 @@
     <description>Updates to Glint for Mac</description>
     <language>en</language>
     <item>
+      <title>Glint 0.1.13</title>
+      <pubDate>Sun, 01 Nov 2026 13:48:30 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>More ideas from Arc, kept light.</b></p><ul><li><b>Profiles as spaces:</b> show one profile's tabs at a time. Pick All, Personal or Work at the foot of the sidebar, or turn it on in Settings ▸ Profiles. The sidebar follows the tab you go to, and new tabs open in the profile you're in.</li><li><b>Boost a site:</b> ⋮ ▸ Boost This Site… changes a site's font (Sans, Serif, Mono) or colours (Dark, Warm, Grey), hides parts of it, or adds your own CSS. It stays that way for the site.</li><li><b>Now playing:</b> leave a tab that's playing sound and a small player appears at the foot of the sidebar, with play and pause and the song's name.</li><li><b>Instant links:</b> in the command bar, ⇧Return goes straight to the top result instead of the search page.</li><li><b>Tidy tab titles:</b> in the command bar, Ask shortens long tab titles to a few words.</li><li><b>Capture (⇧⌘2):</b> drag over part of a page to copy it as a picture.</li><li><b>Rename tabs:</b> right-click a tab ▸ Rename Tab…</li><li><b>Pinned tabs stay put:</b> a link to another site in a pinned tab opens in a preview over it.</li><li><b>Fixed:</b> Ask's web search, which had stopped finding results.</li></ul><p>Already on 0.1.9 or later? Click Update in the toolbar.</p>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.13/Glint-0.1.13.zip" sparkle:edSignature="1VToMQcigDFn+ETafdk9Skzr1upuZgP8JYyixboriuU+2apSHVb0pXM5F2y2WKNXg0kHG4BvLTkr3S4NCMB1Dg==" length="5537713" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Glint 0.1.12</title>
       <pubDate>Sun, 01 Nov 2026 13:11:33 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
