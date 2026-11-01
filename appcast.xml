@@ -6,6 +6,15 @@
     <description>Updates to Glint for Mac</description>
     <language>en</language>
     <item>
+      <title>Glint 0.1.11</title>
+      <pubDate>Sun, 01 Nov 2026 12:52:53 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Installs like a Mac app, with a short welcome tour.</b></p><ul><li><b>Install window:</b> opening the download shows Glint, an arrow and Applications. Drag Glint across to install it.</li><li><b>Install from the app:</b> if you open Glint straight from the download, it offers to install itself in Applications, replacing an older copy and keeping your tabs.</li><li><b>Welcome tour:</b> five quick cards the first time Glint opens: Ask, tabs in the sidebar, privacy and profiles, then your look, your history and your default browser. Help ▸ Welcome Tour shows it again.</li></ul><p>Already on 0.1.9 or later? Click Update in the toolbar.</p>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.11/Glint-0.1.11.zip" sparkle:edSignature="NgB/D+EvIqi+2h0JqKD8y3/iw+VugkL/7JO0gQczCIxXFgR6tLYkWxEkE4JHOJjCOVtfU1XgfLvliwM1NTSDBA==" length="5325875" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Glint 0.1.10</title>
       <pubDate>Sun, 01 Nov 2026 12:35:37 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
