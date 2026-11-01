@@ -6,6 +6,15 @@
     <description>Updates to Glint for Mac</description>
     <language>en</language>
     <item>
+      <title>Glint 0.1.14</title>
+      <pubDate>Sun, 01 Nov 2026 18:05:39 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Saved sites with their own icons.</b></p><ul><li><b>Saved sites</b> on the home page now show each site's icon instead of its first letter. Glint fetches an icon it hasn't seen once, without cookies, and keeps it. A site with no icon keeps its letter.</li><li><b>Dark mode:</b> a dark icon, such as GitHub's, sits on a small light plate, as it does in the sidebar, so it doesn't vanish.</li></ul><p>Already on 0.1.9 or later? Click Update in the toolbar.</p>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.14/Glint-0.1.14.zip" sparkle:edSignature="9PFqDRjC9DW/NWdWjc3wCEfLCJx6OddDHw2Wur6O8Kv/3wXWI+a1H2AIfUGGPEsrn45cZgR03glTfTwuEZj8Dw==" length="5556615" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Glint 0.1.13</title>
       <pubDate>Sun, 01 Nov 2026 13:48:30 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
