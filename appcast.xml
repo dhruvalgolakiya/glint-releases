@@ -6,6 +6,15 @@
     <description>Updates to Glint for Mac</description>
     <language>en</language>
     <item>
+      <title>Glint 0.1.10</title>
+      <pubDate>Sun, 01 Nov 2026 12:35:37 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>A tab overview that feels like a place.</b></p><ul><li><b>New look:</b> misty dunes along the bottom, at dawn in light mode and by moonlight in dark. A few tabs show large and centred; many fill more, smaller columns.</li><li><b>Clearer cards:</b> each card shows its site and when you last looked at it. Empty tabs and Settings get calm cards instead of tiny screenshots, and the tab you're on has a soft halo.</li><li><b>Recently closed:</b> tabs you closed sit at the bottom of the overview; one click brings one back.</li><li><b>Keyboard:</b> type to filter, ↑ and ↓ to pick a card, Return to open it.</li><li><b>Dark website icons:</b> black icons like GitHub's get a faint light plate in dark mode, so they don't vanish.</li></ul><p>This is the first version that can arrive through the Update button: if you're on 0.1.9, just click Update.</p>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.10/Glint-0.1.10.zip" sparkle:edSignature="2uGGQVXginT1t8rrllok502H5QcHq5Ci91wQW5qRNyYf7DndbS1wZP1+CaVZiyLa+A1bDlLYTBCE14N15qfTCw==" length="5025732" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Glint 0.1.9</title>
       <pubDate>Sun, 01 Nov 2026 11:51:17 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
