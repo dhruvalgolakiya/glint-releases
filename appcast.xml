@@ -6,6 +6,15 @@
     <description>Updates to Glint for Mac</description>
     <language>en</language>
     <item>
+      <title>Glint 0.1.12</title>
+      <pubDate>Sun, 01 Nov 2026 13:11:33 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Four ideas from Arc, kept light.</b></p><ul><li><b>Quick window:</b> links from other apps open in a small window with just the page. Open in Glint (⌘O) moves it into your tabs. Turn it off in Settings ▸ General.</li><li><b>Zap:</b> ⋮ ▸ Hide Part of Page…, then click a banner, sidebar or box you never want to see; it stays hidden on that site. ⋮ ▸ Show Hidden Parts brings it back.</li><li><b>Pinned tabs spring back:</b> a pinned tab remembers its page. Wander off and a pin in the address bar takes you back.</li><li><b>Close tabs you've left:</b> in Settings ▸ Tabs, Glint can close tabs you haven't opened in 12 hours, a day, a week or a month. Off unless you choose; pinned tabs and tabs playing sound always stay.</li></ul>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.12/Glint-0.1.12.zip" sparkle:edSignature="tLHau2tuEZnexzf39XGXVvw3YRZjciWFZr2HqVITtHm1nAGhFxLVgTkAdKlvthx2tabhNU6oB20TBSGRraHtBQ==" length="5373992" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Glint 0.1.11</title>
       <pubDate>Sun, 01 Nov 2026 12:52:53 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
