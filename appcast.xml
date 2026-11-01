@@ -5,5 +5,14 @@
     <link>https://github.com/dhruvalgolakiya/glint-releases</link>
     <description>Updates to Glint for Mac</description>
     <language>en</language>
+    <item>
+      <title>Glint 0.1.9</title>
+      <pubDate>Sun, 01 Nov 2026 11:51:17 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Glint now updates itself.</b></p><ul><li><b>Updates from inside Glint:</b> once a day Glint checks for a new version and downloads it in the background. When it's ready, an Update button appears in the toolbar: one click restarts into it, with your windows and tabs back. Or just quit, and it installs.</li><li><b>Check any time:</b> Glint ▸ Check for Updates…, or Settings ▸ About.</li><li><b>The last manual install:</b> after this version, you won't need to download Glint again.</li></ul><p>Signed and notarized by Apple: open the .dmg, drag Glint to Applications and replace the old copy.</p>]]></description>
+      <enclosure url="https://github.com/dhruvalgolakiya/glint-releases/releases/download/v0.1.9/Glint-0.1.9.zip" sparkle:edSignature="6wmPNY3nubmqnZcc2yuScfKXZHcDKfDbAKSXOI1i/WYM68xw73jioqt2jq95oB8f7TZ8FkZKJ3Lj3jxF2Dy/BA==" length="4904099" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
